@@ -28,6 +28,8 @@ A passionate web programmer who is building his own version of the digital world
 
 #
 
+---
+
 ### 📊 Stats
 
 ![Bazzomir's GitHub stats](https://github-readme-stats.vercel.app/api?username=bazzomir&show_icons=true&theme=panda)
