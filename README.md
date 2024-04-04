@@ -28,7 +28,6 @@ A passionate web programmer who is building his own version of the digital world
 
 #
 
----
 
 ### 📊 Stats
 
