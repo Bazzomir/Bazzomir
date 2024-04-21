@@ -1,4 +1,4 @@
-### 👽 BLagoj Jovanovski - Bazzomir
+### 👽 Blagoj Jovanovski - Bazzomir
 
 A passionate web programmer who is building his own version of the digital world one step at a time. With expertise in full-stack development, specializing in creating user-centric, responsive applications. Proficient in problem-solving, adaptable to new technologies, and known for effective communication. Proven track record of delivering high-quality projects on time. Eager to contribute innovative solutions and technical expertise to you and your business.
 
