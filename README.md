@@ -5,7 +5,6 @@ A passionate web programmer who is building his own version of the digital world
 ---
 
 - 🔭 I have found out I'm more passionate about the digital world.
-- 🌱 I have graduated from JavaScript Academy.
 - ⚡ You can see my full-stack projects using NodeJs, Express, ReactJs & ReactTs, MongoDB.
 - 👯 I’m looking for a good collaboration.
 - 📫 How to reach me: in/blagoj-jovanovski-bazzo
