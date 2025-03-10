@@ -1,13 +1,13 @@
 ### 👽 Blagoj Jovanovski - Bazzomir
 
-A passionate web programmer who is building his own version of the digital world one step at a time. With expertise in full-stack development, specializing in creating user-centric, responsive applications. Proficient in problem-solving, adaptable to new technologies, and known for effective communication. Proven track record of delivering high-quality projects on time. Eager to contribute innovative solutions and technical expertise to you and your business.
+Passionate web developer building his own version of the digital world step by step. Experienced in React.js and frontend development, specializing in creating user-centric, responsive applications. Proven track record of delivering high-quality projects on time. Skilled in writing clean, maintainable code, as well as collaboration, teamwork and adaptability. Familiar with Agile and Scrum methodologies, problem-solving, and debugging. Continuously learning to stay ahead in the ever-evolving tech landscape. Eager to contribute innovative solutions and technical expertise to your business.
 
 ---
 
 - 🔭 I have found out I'm more passionate about the digital world.
 - ⚡ You can see my full-stack projects using NodeJs, Express, ReactJs & ReactTs, MongoDB.
 - 👯 I’m looking for a good collaboration.
-- 📫 How to reach me: in/blagoj-jovanovski-bazzo
+- 📫 How to reach me: /in/blagoj-jovanovski-bazzo/
 
 ---
 
