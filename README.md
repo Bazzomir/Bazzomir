@@ -1,4 +1,4 @@
-### 👽 Blagoj Jovanovski - Bazzomir
+### 👽 BJ - Bazzomir
 
 Passionate web developer building his own version of the digital world step by step. Experienced in React.js and frontend development, specializing in creating user-centric, responsive applications. Proven track record of delivering high-quality projects on time. Skilled in writing clean, maintainable code, as well as collaboration, teamwork and adaptability. Familiar with Agile and Scrum methodologies, problem-solving, and debugging. Continuously learning to stay ahead in the ever-evolving tech landscape. Eager to contribute innovative solutions and technical expertise to your business.
 
